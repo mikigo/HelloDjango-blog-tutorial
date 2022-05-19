@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "==2.2.3"
 markdown = "*"
+djangorestframework = "*"
+django-filter = "*"
 
 [dev-packages]
 
